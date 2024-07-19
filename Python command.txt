@@ -1,0 +1,5 @@
+Python command-
+
+1)Python version command-> python --version
+2)pip version command-> pip --version
+3)install opencv-> pip intsall opencv-python
